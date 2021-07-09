@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_347cf5f09e969131ddd2c3c6c195fa25a66b236b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ff875f616d4036cdbde6ec83c631c019efb47da">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\instant-run_d1985d86d40784c45941b8bf8ea373b1c2be0fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_3eb67e67525f6dd6a50a4a98e3824a614cfc517e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_b1681617d01dea8c6ba6ff80ab6df279274b7d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f3ef08d4e9401969eade14e3eef48782c90445e4">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fd879cac25a17a48f63652b4f2319aaeb356b166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_74cc24e621f295977b077eddb82a168c9bc29ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_cc4dd32c8dd271e5c489653ea076938b28a3bdac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_1a6b662130feb8b92f294d814cc5cd2d297d1a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_552d49a4252974f47d8ef7f67bc54ffe5d544a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_b5d0c2d0e80ae2dbed760ba5f068f955a2799b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Idadedocachorrohumano\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_c072026fbca89ee3faeabe742b104d8cfaf56e56.jar" />
+    </item>
+
+</items>
